@@ -1,0 +1,24 @@
+"@gabe-pkg/eslint-config":
+  - packages/eslint-config/*
+  - packages/eslint-config/**/*
+
+"@gabe-pkg/tsconfig":
+  - packages/tsconfig/*
+  - packages/tsconfig/**/*
+
+enhancement:
+  - src/*
+  - src/**/*
+
+test:
+  - "**/*.spec.*"
+
+ci:
+  - .github/workflows/*
+
+docs:
+  - apps/docs/*
+  - apps/docs/**/*
+  - .github/docs/*
+  - .github/docs/**/*
+  - "**/README.md"
