@@ -30,15 +30,20 @@ lerna-debug.log*
 # local files
 .env*
 !.env*.example
+next-env.d.ts
 
 # local DBs
 *.db
 *.sqlite
+*.sqlite-journal
 
 # local directories
 .turbo/
 .vercel/
 .expo/
+
+# typescript
+*.tsbuildinfo
 
 # service workers
 sw.js*
