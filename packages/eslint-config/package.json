@@ -13,6 +13,9 @@
   "devDependencies": {
     "typescript": "^4.7.4"
   },
+  "peerDependencies": {
+    "eslint": ">= 7"
+  },
   "publishConfig": {
     "access": "public"
   }
