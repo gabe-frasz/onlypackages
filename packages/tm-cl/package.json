@@ -1,6 +1,6 @@
 {
   "name": "tm-cl",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "className helper for Tailwind CSS by me.",
   "author": "Gabriel VS Frasão <gabrielvitor.frasao@gmail.com>",
   "license": "MIT",
