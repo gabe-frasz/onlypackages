@@ -1,6 +1,7 @@
 {
-  "name": "@gabe-pkg/eslint-config",
+  "name": "eslint-config-gabe",
   "version": "0.0.2",
+  "private": true,
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
