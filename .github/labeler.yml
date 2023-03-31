@@ -1,10 +1,14 @@
-"@gabe-pkg/eslint-config":
+"eslint-config-gabe":
   - packages/eslint-config/*
   - packages/eslint-config/**/*
 
-"@gabe-pkg/tsconfig":
+"tsconfig-gabe":
   - packages/tsconfig/*
   - packages/tsconfig/**/*
+
+"tm-cl":
+  - packages/tm-cl/*
+  - packages/tm-cl/**/*
 
 enhancement:
   - src/*
@@ -15,6 +19,7 @@ test:
 
 ci:
   - .github/workflows/*
+  - .github/labeler.yml
 
 docs:
   - apps/docs/*
