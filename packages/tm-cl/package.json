@@ -1,0 +1,34 @@
+{
+  "name": "tm-cl",
+  "version": "0.0.0",
+  "description": "className helper for Tailwind CSS by me.",
+  "author": "Gabriel VS Frasão <gabrielvitor.frasao@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "tailwind",
+    "className"
+  ],
+  "homepage": "https://github.com/gabe-frasz/packages/packages/tm-cl#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabe-frasz/packages/packages/tm-cl"
+  },
+  "bugs": {
+    "url": "https://github.com/gabe-frasz/packages/issues"
+  },
+  "type": "module",
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup ./src/index.ts --format esm,cjs --dts"
+  },
+  "dependencies": {
+    "clsx": "^1.2.1",
+    "tailwind-merge": "^1.11.0"
+  },
+  "devDependencies": {
+    "tsup": "^6.7.0",
+    "typescript": "^4.7.4"
+  }
+}
