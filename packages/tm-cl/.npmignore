@@ -1,4 +1,5 @@
 node_modules/
+.turbo/
 src/
 vitest.config.ts
 tsconfig.json
