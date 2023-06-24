@@ -1,9 +1,4 @@
 {
   "root": true,
-  "extends": ["eslint-config-gabe"],
-  "settings": {
-    "next": {
-      "rootDir": ["apps/*/"]
-    }
-  }
+  "extends": ["gabe/monorepo"]
 }
