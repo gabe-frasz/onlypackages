@@ -6,7 +6,6 @@
     "eslintconfig"
   ],
   "license": "MIT",
-  "private": true,
   "files": [
     "./monorepo.js",
     "./next.js",
