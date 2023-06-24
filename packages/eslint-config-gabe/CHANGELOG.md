@@ -1,5 +1,11 @@
 # @gabe-pkg/eslint-config
 
+## 0.0.3
+
+### Patch Changes
+
+- f7d6ee8: separate eslint config into more specific files
+
 ## 0.0.2
 
 ### Patch Changes
