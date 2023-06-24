@@ -7,7 +7,7 @@
     "test": "turbo run test",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "changeset": "changeset add",
+    "pkg.add": "changeset add",
     "pkg.version": "changeset version",
     "pkg.publish": "turbo run build && changeset publish"
   },
