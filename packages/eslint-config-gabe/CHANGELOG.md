@@ -1,5 +1,11 @@
 # @gabe-pkg/eslint-config
 
+## 0.0.4
+
+### Patch Changes
+
+- 348d43a: add config for react
+
 ## 0.0.3
 
 ### Patch Changes
