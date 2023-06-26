@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-gabe",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "keywords": [
     "eslint",
     "eslintconfig"
@@ -9,7 +9,8 @@
   "files": [
     "./monorepo.js",
     "./next.js",
-    "./node.js"
+    "./node.js",
+    "./react.js"
   ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.60.0",
