@@ -1,5 +1,18 @@
 # @gabe-pkg/eslint-config
 
+## 0.0.6
+
+### Patch Changes
+
+- 1344e63: patch
+
+  - **feat**
+
+    - add @typescript-eslint/eslint-recommended plugin to react, node and monorepo configs
+
+  - **refactor**
+    - override config files and resolve next/babel (next config)
+
 ## 0.0.4
 
 ### Patch Changes
